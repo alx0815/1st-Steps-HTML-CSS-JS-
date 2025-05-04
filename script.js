@@ -1,4 +1,4 @@
 document.addEventListener("DOMContentLoaded", () => {
-    alert("Willkommen auf meiner persönlichen Seite!");
+    alert("Willkommen auf meiner persönlichen ersten Test Seite!");
   });
   
